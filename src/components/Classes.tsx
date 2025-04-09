@@ -8,14 +8,14 @@ const Classes = () => {
       title: "Bharatanatyam",
       level: "All Levels",
       description: "A classical dance form from Tamil Nadu, characterized by precise footwork and expressive storytelling through gestures.",
-      image: "https://images.unsplash.com/photo-1635516483049-090d6116c669?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://tse3.mm.bing.net/th?id=OIP.26SVrMc8cnn3tc2J1z2E5gHaFG&pid=Api&P=0&h=180"
     },
     {
       id: 2,
       title: "Kathak",
       level: "Beginner to Advanced",
       description: "A rhythmic dance form from North India, featuring intricate footwork, graceful movements and dynamic spins.",
-      image: "https://images.unsplash.com/photo-1576074972488-65ca096fc4fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://tse1.mm.bing.net/th?id=OIP.JZS5bchrsNjS1q4zr-1i9QHaE8&pid=Api&P=0&h=180"
     },
     {
       id: 3,
@@ -29,21 +29,21 @@ const Classes = () => {
       title: "Odissi",
       level: "Intermediate to Advanced",
       description: "One of the oldest classical dance forms from Odisha, characterized by fluid torso movements and sculpturesque poses.",
-      image: "https://images.unsplash.com/photo-1564677349626-e99a1ed5a124?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://tse4.mm.bing.net/th?id=OIP.C8nDsH1dYXpo7VVERz3RoAHaFd&pid=Api&P=0&h=180"
     },
     {
       id: 5,
       title: "Folk Dance",
       level: "Beginner Friendly",
       description: "A celebration of India's rich cultural heritage through regional folk dances that are lively, vibrant and community-oriented.",
-      image: "https://images.unsplash.com/photo-1516280401293-c2a2cd014cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://www.utsavpedia.com/wp-content/uploads/2013/07/AGSU-MUKALI-BIHU3.jpg"
     },
     {
       id: 6,
       title: "Bollywood",
       level: "All Levels",
       description: "A high-energy fusion style combining classical Indian dance with modern Western influences popularized by Indian cinema.",
-      image: "https://images.unsplash.com/photo-1533236286820-1862b69c115b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://tse4.mm.bing.net/th?id=OIP.spP66yqUK8K1g7gsqCgEXwHaE7&pid=Api&P=0&h=180"
     }
   ];
 
