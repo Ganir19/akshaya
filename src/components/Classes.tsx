@@ -8,42 +8,42 @@ const Classes = () => {
       title: "Bharatanatyam",
       level: "All Levels",
       description: "A classical dance form from Tamil Nadu, characterized by precise footwork and expressive storytelling through gestures.",
-      image: "https://images.unsplash.com/photo-1605296867424-35fc25c9212a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1635516483049-090d6116c669?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     },
     {
       id: 2,
       title: "Kathak",
       level: "Beginner to Advanced",
       description: "A rhythmic dance form from North India, featuring intricate footwork, graceful movements and dynamic spins.",
-      image: "https://images.unsplash.com/photo-1555656220-46e30b4154fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1576074972488-65ca096fc4fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     },
     {
       id: 3,
       title: "Contemporary",
       level: "All Levels",
       description: "A modern style blending elements from various dance forms, focused on expressing emotion through fluid, athletic movements.",
-      image: "https://images.unsplash.com/photo-1518834107812-67b0b7c58434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1675&q=80"
+      image: "https://images.unsplash.com/photo-1547153760-18fc86324498?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80"
     },
     {
       id: 4,
       title: "Odissi",
       level: "Intermediate to Advanced",
       description: "One of the oldest classical dance forms from Odisha, characterized by fluid torso movements and sculpturesque poses.",
-      image: "https://images.unsplash.com/photo-1547153760-18fc86324498?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80"
+      image: "https://images.unsplash.com/photo-1564677349626-e99a1ed5a124?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     },
     {
       id: 5,
       title: "Folk Dance",
       level: "Beginner Friendly",
       description: "A celebration of India's rich cultural heritage through regional folk dances that are lively, vibrant and community-oriented.",
-      image: "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1516280401293-c2a2cd014cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     },
     {
       id: 6,
       title: "Bollywood",
       level: "All Levels",
       description: "A high-energy fusion style combining classical Indian dance with modern Western influences popularized by Indian cinema.",
-      image: "https://images.unsplash.com/photo-1530531517284-581b21a569d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1533236286820-1862b69c115b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     }
   ];
 
