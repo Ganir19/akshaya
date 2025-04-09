@@ -4,23 +4,23 @@ import React from "react";
 const Hero = () => {
   return (
     <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
-      {/* Background Image */}
+      {/* Background Image - Updated with more professional dance image */}
       <div className="absolute inset-0 bg-akshaya-dark">
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{ 
-            backgroundImage: "url('https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80')",
-            opacity: 0.7
+            backgroundImage: "url('https://images.unsplash.com/photo-1546427660-eb2a88a68b18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=85')",
+            opacity: 0.75
           }}
         />
       </div>
       
-      {/* Content */}
+      {/* Content - Enhanced typography */}
       <div className="container mx-auto px-4 relative z-10 text-center">
-        <h1 className="text-5xl md:text-7xl font-playfair font-bold text-white mb-6 animate-fade-in">
-          Express Your <span className="text-akshaya-gold">Soul</span> Through Dance
+        <h1 className="text-5xl md:text-7xl font-playfair font-bold text-white mb-6 animate-fade-in tracking-wide">
+          Express Your <span className="text-akshaya-gold italic">Soul</span> Through Dance
         </h1>
-        <p className="text-xl md:text-2xl text-white mb-8 max-w-3xl mx-auto animate-fade-in" style={{animationDelay: "0.2s"}}>
+        <p className="text-xl md:text-2xl text-white mb-8 max-w-3xl mx-auto animate-fade-in font-light tracking-wide" style={{animationDelay: "0.2s"}}>
           Discover the art of movement at Akshaya Dance Studio, where tradition meets innovation
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-4 animate-fade-in" style={{animationDelay: "0.4s"}}>
